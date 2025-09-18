@@ -1,4 +1,4 @@
-# Car_Price_Prediction ui
+## Car Price Predictor UI
 
 Animated Tailwind + GSAP UI that works with either Flask or FastAPI backends.
 
@@ -30,3 +30,5 @@ The same UI template is shared by both servers. The JS calls `/server-info` to s
 ### Notes
 - Tailwind is via CDN; no build step required.
 - Animations via GSAP; graceful fallback without JS.
+
+
